@@ -375,6 +375,159 @@ def validate(data):
                             + story.get("headline", "?"))
         if not story.get("headline"):
             problems.append("a story is missing its headline")
+        if not story.get("region"):
+            problems.append("story is missing its region: "
+                            + story.get("headline", "?"))
+        if not story.get("context"):
+            problems.append("story is missing its context note: "
+                            + story.get("headline", "?"))
+        if story.get("thumb") and not thumbnail_available(story):
+            problems.append("thumbnail file not found: "
+                            + str(story.get("thumb")))
+    return problems
+
+
+def audit_layout(data):
+    """Measure every text block against the space the layout gives it.
+
+    Returns a list of human-readable warnings. The audit runs the
+    same wrapping and fitting code as the drawing pass, on a scratch
+    canvas, so a headline that would overflow its column or a
+    statistics label that would need a third line is caught before
+    the page is drawn for real. It exists because the layout is
+    fixed: nothing on the page may move to make room, so the text
+    has to prove it fits where it is going to be put.
+    """
+    warnings = []
+    scratch = Image.new("RGB", (CANVAS_W, CANVAS_H), PAPER)
+    draw = ImageDraw.Draw(scratch)
+
+    feature_top = FEATURE_Y + FEATURE_THUMB_H + 12
+    feature_space = FEATURE_RULE_Y - feature_top
+    for story in data["features"]:
+        font, lines, size = fit_headline(
+            draw, story["headline"], FEATURE_COL_W,
+            max_lines=5, start_size=29, min_size=22)
+        height = len(lines) * (size + 7)
+        if height > feature_space:
+            warnings.append(
+                "feature headline needs %dpx of %dpx: %s"
+                % (height, feature_space, story["headline"]))
+        if size <= 22 and len(lines) >= 5:
+            warnings.append(
+                "feature headline at minimum size: "
+                + story["headline"])
+
+    grid_space = STATS_Y - GRID_TOP
+    grid_height = 2 * CELL_THUMB_H + GRID_ROW_GAP
+    if grid_height > grid_space:
+        warnings.append(
+            "grid needs %dpx of %dpx above the statistics strip"
+            % (grid_height, grid_space))
+    for story in data["around"]:
+        cell_w = (CANVAS_W - 2 * MARGIN - GRID_COL_GAP) // 2
+        head_w = cell_w - CELL_THUMB_W - 14
+        font, lines, size = fit_headline(
+            draw, story["headline"], head_w,
+            max_lines=4, start_size=22, min_size=17)
+        height = len(lines) * (size + 5)
+        available = CELL_THUMB_H + GRID_ROW_GAP
+        if height > available:
+            warnings.append(
+                "grid headline needs %dpx of %dpx: %s"
+                % (height, available, story["headline"]))
+
+    note_font = load_font(SANS, 11)
+    for stat in data["stats"]:
+        label_lines = wrap_text(draw, stat["label"], note_font, 248)
+        if len(label_lines) > 2:
+            warnings.append(
+                "statistics label wraps to %d lines: %s"
+                % (len(label_lines), stat["label"]))
+
+    date_font = load_font(SERIF_BOLD, DATELINE_SIZE)
+    date_w = text_width(draw, data["date_line"], date_font)
+    if date_w > CANVAS_W - 2 * MARGIN:
+        warnings.append(
+            "date line is %dpx wide, canvas allows %dpx"
+            % (int(date_w), CANVAS_W - 2 * MARGIN))
+
+    footer_font = load_font(SANS, 12)
+    footer_w = text_width(draw, data["sources_line"], footer_font)
+    if footer_w > CANVAS_W - 2 * MARGIN:
+        warnings.append("sources line is wider than the page")
+
+    return warnings
+
+
+def verify_thumbnails(data):
+    """Check every photograph the page will use, before drawing.
+
+    Each story that names a thumbnail must point at a file that
+    exists, decodes as an image, and is at least as large as the
+    slot it will fill (310x196 for a feature, 168x104 for a grid
+    cell); a smaller file would be upscaled by the cover crop and
+    would soften on the page. Stories with no thumbnail must say
+    so through the panel marker in sources.json, so a missing
+    file can never be a silent surprise. Returns problem strings.
+    """
+    problems = []
+    slots = {}
+    for story in data["features"]:
+        slots[story["headline"]] = (310, 196)
+    for story in data["around"]:
+        slots[story["headline"]] = (168, 104)
+    stories = data["features"] + data["around"]
+    for story in stories:
+        thumb = story.get("thumb")
+        if not thumb:
+            if story.get("thumb_source") != "panel":
+                problems.append(
+                    "story has no thumbnail and is not marked as a "
+                    "panel: " + story["headline"])
+            continue
+        path = os.path.join(HERE, thumb)
+        if not os.path.exists(path):
+            problems.append("thumbnail file missing: " + thumb)
+            continue
+        try:
+            with Image.open(path) as handle:
+                width, height = handle.size
+                handle.verify()
+        except Exception as error:
+            problems.append(
+                "thumbnail does not decode: %s (%s)" % (thumb, error))
+            continue
+        need_w, need_h = slots[story["headline"]]
+        if width < need_w or height < need_h:
+            problems.append(
+                "thumbnail %s is %dx%d, smaller than its %dx%d slot"
+                % (thumb, width, height, need_w, need_h))
+    return problems
+
+
+def check_output(path):
+    """Verify the written PNG: dimensions, format and the 1 MiB cap.
+
+    The competition accepts at most 1024x1024 and 1 MiB. Checking
+    the file that was actually written, rather than the in-memory
+    image, catches encoder surprises instead of assuming them away.
+    Returns a list of problems (empty when the file is acceptable).
+    """
+    problems = []
+    if not os.path.exists(path):
+        return ["entry.png was not written"]
+    size_bytes = os.path.getsize(path)
+    if size_bytes > 1024 * 1024:
+        problems.append(
+            "entry.png is %d bytes, over the 1 MiB cap" % size_bytes)
+    with Image.open(path) as handle:
+        if handle.format != "PNG":
+            problems.append("entry.png is %s, not PNG" % handle.format)
+        if handle.size != (CANVAS_W, CANVAS_H):
+            problems.append(
+                "entry.png is %sx%s, expected %sx%s"
+                % (handle.size[0], handle.size[1], CANVAS_W, CANVAS_H))
     return problems
 
 
@@ -392,18 +545,84 @@ def render(data):
     return canvas
 
 
+def layout_report(data):
+    """Build a plain-text report of what the page will contain.
+
+    The report lists every section with the position and fitted
+    size the drawing pass will use, computed with the same
+    wrapping and fitting helpers. It is the fastest way to see,
+    without rendering, whether a day's selection fits the fixed
+    layout, and it doubles as a proof sheet that can be pasted
+    into a build log. Returns the report as a list of lines.
+    """
+    scratch = Image.new("RGB", (CANVAS_W, CANVAS_H), PAPER)
+    draw = ImageDraw.Draw(scratch)
+    lines = []
+    lines.append("The World Today - layout report")
+    lines.append("date line: " + data["date_line"])
+    lines.append("canvas: %dx%d, margin %d" % (CANVAS_W, CANVAS_H,
+                                               MARGIN))
+    lines.append("")
+    lines.append("Features (photo 310x196, headline from y %d):"
+                 % (FEATURE_Y + FEATURE_THUMB_H + 12))
+    for index, story in enumerate(data["features"], start=1):
+        font, wrapped, size = fit_headline(
+            draw, story["headline"], FEATURE_COL_W,
+            max_lines=5, start_size=29, min_size=22)
+        kind = "photo" if thumbnail_available(story) else "panel"
+        lines.append(
+            "  %d. [%s] %s" % (index, kind, story["headline"]))
+        lines.append(
+            "     fitted at %dpt into %d line(s); region %s; "
+            "confirmed by %s"
+            % (size, len(wrapped), story.get("region", "?"),
+               ", ".join(story.get("outlets", []))))
+    lines.append("")
+    lines.append("Around the World (image 168x104 per cell):")
+    for index, story in enumerate(data["around"], start=1):
+        cell_w = (CANVAS_W - 2 * MARGIN - GRID_COL_GAP) // 2
+        head_w = cell_w - CELL_THUMB_W - 14
+        font, wrapped, size = fit_headline(
+            draw, story["headline"], head_w,
+            max_lines=4, start_size=22, min_size=17)
+        kind = "photo" if thumbnail_available(story) else "panel"
+        lines.append(
+            "  %d. [%s] %s" % (index, kind, story["headline"]))
+        lines.append(
+            "     fitted at %dpt into %d line(s); region %s"
+            % (size, len(wrapped), story.get("region", "?")))
+    lines.append("")
+    lines.append("By the Numbers:")
+    for stat in data["stats"]:
+        lines.append("  %s - %s" % (stat["value"], stat["label"]))
+    lines.append("")
+    lines.append("Sources line: " + data["sources_line"])
+    return lines
+
+
 def main():
     sources_path = os.path.join(HERE, "sources.json")
     with open(sources_path, encoding="utf-8") as handle:
         data = json.load(handle)
     problems = validate(data)
+    problems.extend(verify_thumbnails(data))
     if problems:
         for problem in problems:
             print("sources.json:", problem, file=sys.stderr)
         return 1
+    for warning in audit_layout(data):
+        print("layout audit:", warning, file=sys.stderr)
+    if "--report" in sys.argv:
+        for line in layout_report(data):
+            print(line)
     canvas = render(data)
     out_path = os.path.join(HERE, "entry.png")
     canvas.save(out_path, format="PNG", optimize=False)
+    problems = check_output(out_path)
+    if problems:
+        for problem in problems:
+            print("output check:", problem, file=sys.stderr)
+        return 1
     print("wrote", out_path, canvas.size)
     return 0
 

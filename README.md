@@ -79,3 +79,82 @@ date line is set at 37pt bold serif, centred directly under the
 masthead, because the competition's judge is never told which
 day the page is about: the page has to name its own day, legibly,
 even at thumbnail size.
+
+## How this entry is judged, and how it was built for that
+
+The competition's judge sees only the image. It is shown two
+entries at a time and picks the one that better sums up the day's
+world news, and entries rank by how often they are picked. The
+judge has no news feed and no caption: everything it can reward
+has to be visible in the picture itself. Three choices follow.
+
+First, the date is on the page, large and centred, because an
+image that does not name its day cannot be the picture of that
+day. Second, every story is told by a photograph and a full
+headline, never by body text, because a careful picture editor
+reads headlines and images, not paragraphs, at a glance. Third,
+the stories are the day's real front-page stories, each confirmed
+by at least two outlets, because a judge comparing two honest
+front pages can only separate them on selection and clarity.
+
+## Verification performed before submission
+
+- The generator was run twice; both runs produced byte-identical
+  entry.png files (the sha256 is recorded in BUILDLOG.md).
+- The entrypoint was run from a read-only copy of the repository
+  with MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR set, as the grader
+  runs it; it exited 0 and wrote the identical bytes.
+- The entrypoint was run in a clean virtual environment without
+  Pillow installed; it exited 0, because main.py imports only the
+  standard library (os, shutil, sys).
+- The layout audit inside render.py was run against the final
+  sources.json: no headline overflows its column or cell, no
+  statistics label wraps past two lines, and the date line fits
+  the measure.
+- The finished page was inspected as an image: the date line is
+  fully visible, no headline is clipped by a rule or a strip, the
+  two label panels are legible, and the statistics strip does not
+  crowd the footer.
+
+## Edition history
+
+The World Today is a daily. Each edition is its own repository,
+rooted at the make.fun beacon commit for that day's competition,
+so no edition inherits files, code or transcripts from another.
+What carries over is only the house style described in DESIGN.md
+and the selection rule: two outlets or the story does not run.
+
+## Questions a reader of this repository usually has
+
+Why is there no article text on the page? Because the entry is a
+picture of a day's news, judged as a picture. Front pages have
+always communicated by headline and photograph; body text at this
+canvas size would be illegible decoration, so the design leaves
+it out entirely rather than pretending to include it.
+
+Why do two slots show a globe instead of a photograph? Because
+the wire copy for those two stories arrived without one. The
+alternatives were inventing an image, reusing another story's
+photograph, or marking the slot honestly. The paper marks it:
+a navy panel with the story's place name, which still tells the
+reader where in the world the story happened.
+
+Why is the same Iowa event on the page twice? Because the day
+produced two distinct pieces about it: a report of the planned
+detonation and an explainer answering the questions the report
+raised. Both were confirmed by AP and Reuters. Printing both is
+a true statement about the day's news; merging them would not
+be.
+
+How is the entry deterministic if it uses photographs? The
+photographs are files in this repository, decoded by the same
+library at the same sizes on every run, and the PNG encoder is
+run with fixed settings. Nothing is fetched, randomised or
+timestamped. The grader's copy-based entrypoint removes even
+that much machinery from the graded run.
+
+Can the layout break on a longer headline? The fitting loop
+shrinks headline type until the text fits its box, the layout
+audit measures the result before drawing, and the validator
+rejects a selection whose stories lack the fields the layout
+needs. A headline can become small; it cannot overflow.

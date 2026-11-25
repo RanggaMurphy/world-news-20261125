@@ -22,7 +22,9 @@
       ],
       "thumb": "thumbs/story-1.jpg",
       "thumb_source": "og:image",
-      "panel_label": "GAZA"
+      "panel_label": "GAZA",
+      "region": "Middle East",
+      "context": "The strike was the day's most consequential development in Gaza, where Israel's campaign against Hamas continues and internal security appointments have turned over quickly."
     },
     {
       "headline": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
@@ -41,7 +43,9 @@
       ],
       "thumb": "thumbs/story-2.jpg",
       "thumb_source": "og:image",
-      "panel_label": "UKRAINE"
+      "panel_label": "UKRAINE",
+      "region": "Africa / Europe",
+      "context": "The conviction is one of the clearest court outcomes yet in the widening story of African recruitment into Russia's war in Ukraine, which Kyiv has raised repeatedly this year."
     },
     {
       "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
@@ -59,7 +63,9 @@
       ],
       "thumb": "thumbs/story-3.jpg",
       "thumb_source": "og:image",
-      "panel_label": "HUAWEI"
+      "panel_label": "HUAWEI",
+      "region": "United States / China",
+      "context": "The split verdict closes a long-running US prosecution of Huawei while leaving the trade-secrets conviction standing, a result both sides can present as a partial win."
     }
   ],
   "around": [
@@ -80,7 +86,9 @@
       ],
       "thumb": "thumbs/story-4.jpg",
       "thumb_source": "og:image",
-      "panel_label": "IOWA"
+      "panel_label": "IOWA",
+      "region": "United States",
+      "context": "Lead azide is a primary explosive that becomes more dangerous as it degrades, which is why the Army chose a controlled open detonation and warned residents about the dust plume."
     },
     {
       "headline": "A blast at a hot pot eatery in Vietnam's capital Hanoi kills 6 and injures more than a dozen",
@@ -98,7 +106,9 @@
       ],
       "thumb": null,
       "thumb_source": "panel",
-      "panel_label": "VIETNAM"
+      "panel_label": "VIETNAM",
+      "region": "Southeast Asia",
+      "context": "Hot pot restaurants cook at the table over open burners, and the blast was the deadliest single incident reported from Vietnam in the day's intake."
     },
     {
       "headline": "What to know about US Army plans to blow up a stockpile of lead azide in Iowa",
@@ -115,7 +125,9 @@
       ],
       "thumb": null,
       "thumb_source": "panel",
-      "panel_label": "IOWA"
+      "panel_label": "IOWA",
+      "region": "United States",
+      "context": "The explainer ran alongside the main Iowa report because officials had given conflicting accounts of how far the lead dust could travel, and residents needed one clear account."
     },
     {
       "headline": "Pope Francis' diary reveals claims he saw the devil three times",
@@ -133,7 +145,9 @@
       ],
       "thumb": "thumbs/story-7.jpg",
       "thumb_source": "og:image",
-      "panel_label": "VATICAN"
+      "panel_label": "VATICAN",
+      "region": "Europe / Vatican",
+      "context": "The diary extracts were published after the late pope's death and were the day's most unusual story: a pontiff recording, in his own hand, that he believed he had seen the devil."
     }
   ],
   "stats": [

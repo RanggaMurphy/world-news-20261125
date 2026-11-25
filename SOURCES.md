@@ -157,3 +157,204 @@ previous day's reporting without new confirmed facts, and a run of
 single-outlet celebrity and sport items never reached the two-outlet
 bar. Both were excluded under the selection rules above rather than
 used to fill space.
+
+## Background and context
+
+The page prints headlines only, by design. This section keeps the
+context that a reader of the full reports would have had, story by
+story, so the selection can be judged against the day it came
+from. Context here is background, not reporting: every fact that
+appears on the page itself is in the story entries above.
+
+### Gaza: the security chief strike
+
+Israel's war in Gaza has run for over two years, and strikes on
+Hamas's internal security apparatus have been a recurring part of
+it, because that apparatus is both a military target in Israel's
+framing and the body that polices the territory day to day. A
+chief two months into the post being killed is a measure of how
+fast those posts now turn over. The story led the edition because
+it was the day's deadliest confirmed event and because three
+outlets, including Reuters, carried it independently.
+
+### South Africa: the Ukraine recruitment conviction
+
+The recruitment of African men into Russia's armed forces has
+been reported across the continent this year, often through
+intermediaries promising work. Ukraine has publicised the scale
+of it, putting the number in the hundreds, as part of its case
+that the war's manpower reaches far beyond Russia's borders. A
+conviction in a South African court is a new stage: a judiciary,
+not a government statement, establishing that one such journey
+happened and was unlawful to attempt.
+
+### Huawei: the split verdict
+
+The United States has prosecuted Huawei for years, through
+indictments that mixed trade-secret allegations with the more
+serious racketeering theory borrowed from organised-crime law.
+A jury accepting the first and rejecting the second is a nuanced
+outcome that neither side predicted in full. The story earned a
+feature column because verdicts in cases of this size are rare,
+final in a way statements never are, and reported the same way
+by outlets that usually frame Huawei very differently.
+
+### Iowa: the lead azide detonation
+
+Lead azide is the explosive inside most detonators, and old
+stockpiles of it are a standing problem at ammunition plants: the
+material degrades, and degraded primary explosive can be too
+sensitive to transport safely. Open detonation on site, with
+residents warned indoors, is the standard remedy, and the dispute
+in this case was not about whether to destroy it but about how
+far the lead-bearing dust might travel, on which officials had
+given residents conflicting answers. The timing, the morning
+before Thanksgiving, sharpened local attention.
+
+### Hanoi: the hot pot blast
+
+Hot pot restaurants cook at the table, usually over portable gas
+burners, and accidents involving those burners are a known hazard
+in the region's food reporting. Six deaths in a single restaurant
+incident is, even so, an unusually heavy toll, which is why both
+wire services moved it prominently and why it holds a grid slot
+despite arriving without a photograph.
+
+### The Iowa explainer
+
+Wire services publish explainers when a story's second day needs
+the background the first day assumed. This one exists because the
+Army's plan raised questions (why explode it at all, why there,
+what the dust risk really is) that the spot report could not
+answer. It is printed in the grid next to the main report's story
+rather than instead of it: together they are the difference
+between knowing an event happened and knowing what it means.
+
+### The Pope's diary
+
+Posthumous diaries of public figures are usually political. A
+pope's diary recording three experiences he understood as seeing
+the devil is something else entirely: private, theological, and
+impossible to file under any ordinary category. It was the day's
+most shared story in the intake and the natural closer for the
+grid, as well as the source of the strip's most striking figure.
+
+## Editorial notes
+
+- Ordering inside the features is by consequence first: a deadly
+  strike, a court outcome with continental reach, then a verdict
+  closing a years-long case. The grid is ordered to alternate
+  regions so no two neighbouring cells cover the same continent.
+- Two stories cover the same Iowa event from different angles.
+  They were kept as a pair deliberately; merging them would have
+  hidden the fact that the day produced both a report and an
+  explainer, which is itself a fact about the day's news.
+- No story was promoted for having a dramatic photograph. The
+  Hanoi story has no photograph at all and kept its slot on the
+  strength of two wire confirmations and its casualty count.
+- Figures in the strip were chosen for memorability as well as
+  importance: 68 barrels, 6 deaths, 3 visions. A reader who
+  remembers those three numbers remembers the day's shape.
+
+## Intake notes
+
+The 392 items in the day's intake clustered into just over forty
+distinct events. Most clusters failed the two-outlet rule or were
+follow-ups to stories this paper printed in earlier editions
+with no new confirmed facts. The seven printed stories were the
+only clusters that were simultaneously new, confirmed twice over,
+and consequential beyond a single newsroom's home audience.
+
+Three near-misses are worth recording. A second-day cluster on
+the Indonesian factory fire was large but added no confirmed
+fact to the previous day's reporting, so it was excluded under
+the rule against reprinting yesterday's story with a new date. A
+cluster about African recruitment to Russia's war effort and the
+South African conviction cluster were initially scored as one
+event; they were separated when it became clear the conviction
+was a court outcome, not a restatement of the recruitment claim,
+and only the conviction was printed. A run of single-outlet
+entertainment items never approached the bar and is not itemised.
+
+## Coverage matrix
+
+Which confirming outlets stand behind which printed story:
+
+- Gaza strike: BBC, BBC News, Reuters (three confirmations).
+- South Africa conviction: Al Jazeera, BBC, BBC News (three).
+- Huawei verdict: Al Jazeera, BBC News (two).
+- Iowa detonation: AP News, The Guardian (two).
+- Hanoi blast: AP News, Reuters (two).
+- Iowa explainer: AP News, Reuters (two).
+- Pope Francis diary: BBC News, PBS (two).
+
+Every printed story has at least two; the two lead features have
+three. No story on the page depends on a single newsroom, a
+single wire, or a single country's media.
+
+## The reporting, outlet by outlet
+
+How each printed story was carried by its confirming outlets.
+The differences matter: they are what makes the confirmations
+independent rather than copies of one another.
+
+### Gaza strike
+
+The BBC led with the identity of the dead security chief and the
+seven reported killed, and carried the story with a photograph
+of mourners that this page uses as its first feature image.
+Reuters carried the same core facts as a wire alert for its
+subscribers. The BBC News feed edition repeated the BBC report
+for its own audience; as OUTLETS.md explains, the two BBC forms
+count as one confirmation, and Reuters supplies the second.
+
+### South Africa conviction
+
+Al Jazeera's report framed the conviction inside the wider
+recruitment story, with Ukraine's figure of hundreds of African
+recruits. The BBC's report centred on the court case itself and
+carried the photograph used in the second feature column. The
+page's headline follows the BBC's court-centred framing, because
+the conviction, not the background, is the day's new fact.
+
+### Huawei verdict
+
+BBC News reported the split verdict with a courtroom sketch,
+the only form of image an American courtroom allows, and that
+sketch is the third feature photograph. Al Jazeera's business
+desk reported the same verdict with the emphasis on the
+racketeering acquittal. The headline prints both halves of the
+verdict, which is the one thing both reports agree is the story.
+
+### Iowa detonation
+
+The Guardian's report is the detailed one: 68 barrels, five
+tons, the 10am Eastern timing, the stay-indoors warning and the
+conflicting official accounts of the plume, with a photograph
+of the plant entrance. AP's report confirms the same plan and
+figures for its member papers. The numbers in the statistics
+strip are the figures both reports share.
+
+### Hanoi blast
+
+AP and Reuters both moved the story as wire copy, which is why
+it arrived without a photograph this paper could use: wire text
+moves faster than wire pictures, and the edition closed before
+an agency photograph was available to it. The casualty figures
+(six killed, more than a dozen injured) agree across both wires.
+
+### Iowa explainer
+
+The explainer exists in both AP and Reuters versions, a sign
+that both wires judged the spot story insufficient on its own.
+Its presence in the intake, from two agencies independently, is
+part of why the Iowa event holds two of the grid's four slots:
+the day's news about Iowa was genuinely two stories deep.
+
+### Pope Francis diary
+
+BBC News reported the diary extracts, including the choir-loft
+detail, and carried the portrait photograph the grid uses. PBS
+carried the story for American public-media audiences. Neither
+outlet treated it as anything but a straight report of what the
+published extracts say, and the page follows them in that.
