@@ -190,6 +190,24 @@ def check_cross_references(data):
     edition = read("EDITION.md")
     check("companion explains the duplication", "twice" in edition)
     check("companion explains the panels", "panel" in edition.lower())
+    check("companion carries a corrections section",
+          "Corrections and clarifications" in edition)
+    press = read("PRESS.md")
+    check("press carries worked examples",
+          "The rules at work in this edition" in press)
+    topics = {
+        "background/gaza-campaign.md": ["internal security", "two months"],
+        "background/african-recruitment.md": ["hundreds", "South Africa"],
+        "background/trade-secrets-trials.md": ["racketeering", "split"],
+        "background/lead-azide.md": ["primary explosive", "plume"],
+        "background/hot-pot-safety.md": ["burner", "panel"],
+        "background/papal-diaries.md": ["choir loft", "claims"],
+    }
+    for rel, markers in topics.items():
+        text = read(rel)
+        for marker in markers:
+            check("briefing topic %s: %s" % (marker, rel.split("/")[-1]),
+                  marker.lower() in text.lower())
 
 
 def main():

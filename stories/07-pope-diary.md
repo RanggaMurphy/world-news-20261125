@@ -61,6 +61,18 @@ the extracts) is in the linked reporting.
 Whether the Vatican comments on the extracts, and whether
 further diary material is published.
 
+## The headline, phrase by phrase
+
+"Pope Francis' diary" makes the document the subject, which is
+the correct epistemology for the whole story: everything known
+comes from the diary. "Reveals claims" is a deliberately double
+hedge, the diary revealing and the contents being claims, and
+both hedges stay. "He saw the devil" is the claim in the
+diarist's own terms, not translated into psychology or
+metaphor by the page. "Three times" is the count that the
+strip borrows, with the diary's name attached to it there as
+it is here.
+
 ## Articles
 
 - https://www.bbc.co.uk/news/articles/

@@ -72,3 +72,48 @@ them. The 25 November 2026 edition follows every rule below.
 21. Corrections belong to the next edition's record. A
     submitted image is never re-rendered except to prove
     determinism, which by construction changes nothing.
+
+## The rules at work in this edition
+
+Worked examples, so a future editor can see the rules deciding
+real cases rather than floating above them:
+
+- **Rule 1** decided the page's boundary: every story here has
+  at least two of the seven tracked outlets behind it, and
+  stories that led single-outlet feeds that day are absent,
+  however strong they looked.
+- **Rule 2** is why the Gaza strike's confirmation is described
+  as a wire plus a house: two of its three carriers share an
+  owner, and the record says so instead of counting to three
+  and staying quiet.
+- **Rule 3** put a verdict, a conviction and a strike in the
+  features: a decision, a decision, and the day's gravest
+  consequence.
+- **Rule 4** admitted the Iowa explainer: two wires carried it,
+  and its headline's question form signals its genre on the
+  page itself.
+- **Rule 5** is why the page is heavy with Iowa: the rule
+  produced two Iowa stories, and nobody balanced one away.
+- **Rule 6** is visible in the Huawei headline, which is long
+  because the carriers' wording is long and the fit allowed it.
+- **Rule 7** is the same headline's other half: the acquittal
+  prints, whole, or the story would not have featured.
+- **Rule 8** is the word "claims" in the diary headline and the
+  words "diary says" in the strip's third label.
+- **Rule 9** is why the strip reads 68, 6, 3 and not "about
+  seventy, several, a few": the carriers printed figures, and
+  the page prints figures.
+- **Rule 11** is why Hanoi's injured are "more than a dozen"
+  everywhere in this repository: the wires had not settled the
+  count, so neither does the paper.
+- **Rule 12** is the plume: two official distances, one printed
+  conflict.
+- **Rule 14** is the two navy panels, VIETNAM and IOWA, drawn
+  and labelled as drawn.
+- **Rule 16** is why the Zimbabwean defendant is a nationality
+  and a role in the headline while Abu Nahel is a name in the
+  facts: the office-holder's identity is the story; the
+  recruit's is not.
+- **Rule 20** is the Iowa duplication, disclosed in the README,
+  the companion, the dossier and here.
+

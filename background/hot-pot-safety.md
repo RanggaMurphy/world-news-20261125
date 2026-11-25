@@ -40,3 +40,15 @@ Its slot is a navy panel labelled VIETNAM. A stock image of a
 hot pot restaurant would have illustrated the cuisine and lied
 about the event; the panel illustrates nothing and lies about
 nothing, which is the correct trade.
+
+## Wire tolls and their grammar
+
+Wire copy from a blast scene has a grammar this edition follows
+exactly: the dead are counted in figures ("kills 6"), the
+injured in phrases ("more than a dozen"), because the dead at a
+scene can be counted and the injured, scattered across
+hospitals and still arriving, cannot yet. A reader who learns
+the grammar can read any wire toll in the paper and know which
+number is settled and which is still moving. The strip takes
+the settled one, as it always does, and the dossier's watch
+note waits for the other to settle.

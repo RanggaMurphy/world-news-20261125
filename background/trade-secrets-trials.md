@@ -39,3 +39,13 @@ in PRESS.md (rule 7) because this edition needed it.
 Sentencing, which prices the conviction; an appeal, which could
 reopen either half; and any parallel case that cites this
 verdict's split as a template.
+
+## Why "stealing" and not a softer verb
+
+The headline's verb is "stealing" because the charge's everyday
+name is stealing and the jury found the conspiracy proved.
+Legal writing prefers "misappropriation"; wire writing prefers
+the word a reader cannot misunderstand. The page follows the
+wires, and the dossier records the formal charge (conspiracy to
+steal trade secrets) so the record holds both registers: the
+headline for the reader, the charge for the file.

@@ -43,3 +43,17 @@ the plan, the warnings and the reasoning. The edition prints
 its headline under the report's, so the page itself performs
 the sequence the news performed: first the event, then the
 explanation.
+
+## The Thanksgiving variable
+
+A detonation warning is a communication problem before it is an
+engineering one, and the holiday changes the communication
+problem: residents are travelling, hosting, or away; local
+media run holiday staffing; official channels compete with
+family logistics for attention. None of that changes the
+physics of the plume, and all of it changes whether the warning
+arrives. The edition keeps the timing in the headline and in
+this briefing because a future reader, meeting the story
+without its week attached, would otherwise wonder why a routine
+disposal rated two wire pieces and a stay-indoors warning. The
+week is the answer.

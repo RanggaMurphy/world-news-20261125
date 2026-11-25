@@ -38,3 +38,17 @@ famous by the page for the worst decision of their lives.
 A firmer number than "hundreds" from a source that counts, a
 second jurisdiction prosecuting, or a recruiting network named
 in court papers rather than in allegations.
+
+## The number problem
+
+"Hundreds" is Ukraine's figure, attributed to Ukraine wherever
+this edition uses it. It is the only figure available and it
+comes from a party to the war, which does not make it wrong and
+does make it a claim. The desk's handling is the edition's
+standard one for party figures: print it with its owner
+attached, build nothing on its precision, and watch for a
+counting source (a court system, an international body, a
+consortium of newsrooms) whose number can replace it. Until
+then the conviction matters more than the count: a court has
+verified one strand of the pattern under oath-tested rules,
+which no estimate can do.

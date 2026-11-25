@@ -57,6 +57,17 @@ and the page follows the wires exactly on that point.
 Who succeeds Abu Nahel, and how long the successor lasts: the
 turnover rate is the story's forward signal.
 
+## The headline, phrase by phrase
+
+"Israeli air strike" assigns the act to its actor in the first
+three words, because a strike with no named actor would read as
+weather. "Kills" is the carriers' verb, unsoftened. "Hamas
+internal security chief" is the office, which is the news; the
+name is one line down in the facts, where a reader who wants it
+will find it and a reader who does not is not taxed with it.
+"In Gaza" closes the line because the campaign has more than
+one theatre and the place is part of the fact.
+
 ## Articles
 
 - https://www.bbc.co.uk/news/articles/

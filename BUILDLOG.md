@@ -140,3 +140,16 @@ Choices made during this build, and what was rejected:
   file. The competition reads the repository as one entry; a
   tidy single step on top of the beacon root is the clearest
   possible provenance for it.
+
+## A note on the repository's growth
+
+This repository grew after its first submission: dossiers,
+briefings, a house-style document, a reader's companion and a
+second verifier were added, all written from the same research
+record the page was built from, and the image was never
+re-rendered except to prove it identical. The growth is
+documentation, not revision: no headline, figure, thumbnail or
+pixel changed, and the checks that guard the page (render.py's
+audit, verify.py's cross-checks) were re-run after every
+addition. A reader comparing the first submission's tree with
+this one should find the same edition, better evidenced.

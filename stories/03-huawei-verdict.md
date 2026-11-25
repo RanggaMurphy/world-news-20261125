@@ -59,6 +59,17 @@ kept in the briefing and the linked reporting.
 Sentencing on the trade-secrets conviction, and any appeal:
 the split verdict gives both sides something to appeal from.
 
+## The headline, phrase by phrase
+
+"Found guilty of stealing trade secrets" is the conviction,
+stated first because it is the half that carries consequences.
+"But acquitted of racketeering" is the bound on it, and the
+"but" is doing honest work: it tells the reader the two halves
+pull in opposite directions before they reach either noun.
+Dropping the second half for space was the one shortening the
+desk refused outright; a split verdict shortened to one half is
+a different verdict.
+
 ## Articles
 
 - https://www.bbc.co.uk/news/articles/

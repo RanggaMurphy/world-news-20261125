@@ -65,3 +65,23 @@ the Gaza succession was unknown. A one-image daily is a
 snapshot with its hour printed on it, and the dossiers'
 watch-next notes are the edition's way of admitting, story by
 story, exactly where its knowledge stops.
+
+## How to cite this edition
+
+Cite the page as The World Today, 25 November 2026, and the
+story by its dossier number. Figures from the strip should be
+cited with their labels, which carry their sources: the barrels
+to the Army's plan as reported by AP and the Guardian, the
+Hanoi toll to the wires, the three visions to the diary. A
+figure cited without its label is a figure this edition does
+not recognise.
+
+## Corrections and clarifications
+
+None at the time of submission. Under the house rules, any
+correction to this edition will be recorded in the next
+edition's record, naming this one, and this repository's
+history will not be rewritten to hide it. The standing watch
+items most likely to force a clarification are the Hanoi
+injured count and the Iowa plume distance, both printed here at
+the strength the day's record supported and no stronger.

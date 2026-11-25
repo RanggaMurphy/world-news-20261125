@@ -358,3 +358,48 @@ detail, and carried the portrait photograph the grid uses. PBS
 carried the story for American public-media audiences. Neither
 outlet treated it as anything but a straight report of what the
 published extracts say, and the page follows them in that.
+
+## The confirmation paths
+
+Each story reached the page by a different route:
+
+- **Gaza strike** was confirmed by a wire plus a house: Reuters
+  carried the strike independently of the two BBC brands, so the
+  story has both repetition and independence behind it.
+- **The Zimbabwean conviction** was confirmed by complement: Al
+  Jazeera reported the case from the region's angle while the
+  BBC brands carried the court outcome; the page's version is
+  the intersection.
+- **The Huawei verdict** was confirmed by independence: Al
+  Jazeera and BBC News, different owners, different newsrooms,
+  the same split verdict in the same words in substance.
+- **The Iowa detonation** was confirmed by a wire and a paper:
+  AP's report and the Guardian's, the Guardian supplying the
+  resident-warning detail in full.
+- **The Hanoi blast** was confirmed by two wires from the scene,
+  AP and Reuters, the classic blast configuration: fast, thin,
+  and in agreement on the toll.
+- **The Iowa explainer** was confirmed as a genre: both wires
+  judged the report insufficient and published the explanation,
+  which is itself a fact about the day's information state.
+- **The Pope's diary** was confirmed by contrast: BBC News and
+  PBS, a British newsroom and an American public broadcaster,
+  treating a diary's claims with the same care in the same
+  register.
+
+## The production sequence
+
+1. The feeds were scanned and every story with two carriers was
+   listed, regardless of subject.
+2. The list was cut to seven by the selection rules in PRESS.md.
+3. sources.json was written from the record, story by story.
+4. Thumbnails were taken from the carrying articles; the two
+   stories without photographs were assigned panels.
+5. The page was rendered and audited; the Huawei headline's fit
+   was checked twice because a split verdict may not be
+   shortened.
+6. The documents were written from the same record, and the
+   verifiers run: render.py's audit from the data, verify.py
+   from the documents.
+7. The image was committed unchanged from its first verified
+   render.

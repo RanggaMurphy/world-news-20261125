@@ -61,6 +61,17 @@ instead, in the facts, which is the honest version.
 The detonation itself on Wednesday morning, and the first
 post-blast account of where the dust actually went.
 
+## The headline, phrase by phrase
+
+"US army to detonate" is future tense and stays future: at
+press time the blast had not happened, and the page does not
+report plans as events. "68 barrels" is the scale in the
+carriers' own unit; the tonnage (five) is in the facts, because
+a reader pictures barrels at a plant gate more easily than
+tons. "Toxic lead" is the hazard in two words. "On day before
+Thanksgiving" is the timing, kept because the warning's whole
+difficulty was reaching a holiday population.
+
 ## Articles
 
 - https://www.theguardian.com/us-news/2026/nov/24/

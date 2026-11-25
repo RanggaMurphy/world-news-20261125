@@ -64,3 +64,20 @@ The competition entry is a program, but the program's product is
 journalism. The places above are the difference between seven
 headlines and a day in the world; keeping their notes beside the
 code keeps the entry honest about what it is summarising.
+
+## Three more places the record touches
+
+- **The choir loft** is a place in this edition: the setting
+  Francis' diary gives for one of the three visions. Small
+  places get entries when a story's most checkable detail is
+  located in them; a reader can find the loft in any large
+  church, which makes the detail testable in a way the vision
+  itself is not.
+- **New York** appears as a courtroom before it appears as a
+  city: the Huawei trial's venue is part of the verdict's
+  weight, because the prosecution was an American one and the
+  jury an American jury.
+- **The ammunition plant** in rural Iowa is the edition's
+  second institutional place: a site whose stockpile a whole
+  community lives beside, and the reason a disposal plan is
+  front-page news there and a wire brief everywhere else.

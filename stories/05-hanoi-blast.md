@@ -59,6 +59,18 @@ The injured count resolving, and the first official statement
 on cause, which converts this from a toll story into an
 accountability story.
 
+## The headline, phrase by phrase
+
+"A blast" is the wires' noun and the page keeps its
+indefiniteness: the copy establishes an explosion, not its
+mechanism. "At a hot pot eatery" is the setting that makes the
+toll intelligible. "In Vietnam's capital Hanoi" names city and
+country both, because the grid's readers may know either and
+the panel beside the headline says only VIETNAM. "Kills 6 and
+injures more than a dozen" is the toll in the wires' own
+precision: an exact count for the dead, an honest vagueness
+for the injured, whose number was still moving.
+
 ## Articles
 
 - The AP and Reuters reports, both carried through the

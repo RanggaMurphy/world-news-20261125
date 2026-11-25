@@ -41,3 +41,15 @@ A Vatican comment on the extracts, further diary publication,
 or a theologian of standing characterising the entries: any of
 these would move the story from publication news into church
 news, and a future edition would treat it accordingly.
+
+## The choir loft detail
+
+Of the three visions, the record details one setting: the choir
+loft during Mass. The desk prints that detail and not the other
+settings because it is the one the record supports in two-outlet
+copy. It is also the detail that does the story's quiet work: a
+vision claimed not in solitude or illness but in the middle of
+the liturgy, in the building's most musical and least private
+corner. A reader does not have to share the belief to
+understand why a diarist would record it, and why an editor
+would print it.

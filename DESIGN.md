@@ -216,3 +216,19 @@ them. Balancing the columns by shrinking the shorter headlines
 to match the longest block was considered and rejected: it would
 make two headlines smaller for the sake of a symmetry no reader
 asked for.
+
+## The panels as design
+
+Two of this edition's seven slots are not photographs but navy
+panels carrying a place name in the paper's gold. The design
+treats them as first-class elements rather than placeholders:
+the panel's navy is the masthead's navy, its type is the
+kicker's type, and its label is centred in the slot a photograph
+would have filled, so the grid's rhythm survives the absence.
+The alternative treatments were considered and rejected in the
+record: a globe motif (decoration pretending to be
+information), a map (a claim about geography the story did not
+make), and a smaller grid (which would have punished five
+stories for two stories' missing pictures). A labelled absence
+is the honest element, and honesty, set in the house colours,
+turns out to look like design.

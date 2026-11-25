@@ -62,6 +62,18 @@ they belong, attributed to the officials who gave them.
 Whether the post-blast reporting settles the plume question the
 explainer had to leave open.
 
+## The headline, phrase by phrase
+
+"What to know" is the genre marker, and it is the most
+important phrase in the headline: it promises answers, not
+news, and a reader who has read the report above it knows
+exactly which questions are meant. "About US Army plans" keeps
+the plan a plan. "To blow up a stockpile of lead azide" uses
+the plain verb because explainers are written for the residents
+the warning concerned, not for ordnance specialists. "In Iowa"
+ties the cell to its event, two rows up and one column over in
+the reader's path.
+
 ## Articles
 
 - The AP and Reuters explainers, carried through the

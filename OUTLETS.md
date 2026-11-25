@@ -128,3 +128,23 @@ the day was wrong, and the honest remedy is a correction in the
 open, in the following day's SOURCES.md, naming what changed.
 No correction was needed for any story in this edition at the
 time of submission.
+
+## Feed mechanics
+
+How the day's stories physically arrived:
+
+- **Outlet RSS** (the BBC brands, Al Jazeera, the Guardian)
+  delivers the outlet's own headline, timestamp and lead image.
+  This is the preferred pipe: nothing sits between the outlet
+  and the desk.
+- **The Google News wire** aggregates the same reporting without
+  lead images. The Reuters, AP and PBS items arrived this way
+  and were read at the carriers' own pages before selection;
+  the wire is a discovery pipe, never the text of record. Two
+  stories arrived with no photograph at all through it, which
+  is why the edition has two panels.
+- Timestamps in this repository are the feeds' own; where the
+  pipes disagreed, the outlet's page won.
+- The desk tracked a fixed set of seven outlets for this
+  edition, named in the footer. A story carried only outside
+  that set was invisible to the edition by design.

@@ -59,3 +59,15 @@ restaurant disaster and a dead pope's diary. That is precisely
 why the front page is organised by consequence instead of by
 the clock. The chronology is kept here, in the record, and the
 page is kept for the ranking.
+
+## The hours the record cannot give
+
+The feeds timestamp publication, not events, and this edition's
+events resist clock times more than most: a strike reported on
+Tuesday's cycle, a trial that ran for months and ended in a
+verdict, a detonation still in the future at press time, a
+diary written across years and published in a day. The timeline
+therefore orders by the day the record supports and declines to
+invent hours. A front page is allowed to rank; a timeline is
+not allowed to fabricate, and the difference between the two
+documents is exactly that permission.

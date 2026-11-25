@@ -37,3 +37,16 @@ facts carry the toll at its reported strength.
 A named successor (continuity) or a long vacancy (disruption),
 and any Hamas statement characterising the strike's effect on
 its internal apparatus.
+
+## Why this briefing avoids the word "decapitation"
+
+Coverage of strikes on security officials often reaches for
+decapitation language. The word claims an organisational effect
+(death of the head, paralysis of the body) that a single strike
+rarely proves and that this record does not contain: the record
+shows a killing, a short tenure and a toll. The briefing and the
+dossier therefore describe the post, the tenure and the
+succession question, and leave the metaphor out. Precision
+about what a strike did is worth more than a vivid claim about
+what it meant, especially in the document a future editor will
+read first.

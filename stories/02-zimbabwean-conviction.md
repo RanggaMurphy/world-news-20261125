@@ -59,6 +59,17 @@ Further prosecutions in South Africa and elsewhere on the
 recruitment route, and any Russian or Ukrainian statement that
 puts a firmer number on the recruitment.
 
+## The headline, phrase by phrase
+
+"Zimbabwean" leads because nationality is the story's
+connection: a man from one country, in a second country's
+court, bound for a third country's war. "Convicted in South
+Africa" gives the venue its weight; courts convict, and the
+place of the court is the jurisdiction that reached the
+pipeline. "Of trying to fight in Ukraine" keeps the word
+"trying": he did not fight, and the headline of a conviction
+for an attempt must not report a completed act.
+
 ## Articles
 
 - https://www.bbc.co.uk/news/articles/
