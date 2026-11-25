@@ -87,6 +87,16 @@ grammar (the headline's future tense) and the timeline handles
 it with position: last, where a scheduled event belongs, with
 its hour stated and its outcome honestly absent.
 
+## Sources of the chronology
+
+The order above rests on the feeds' own dating and on the
+stories' internal evidence (a trial's length, a tenure's two
+months, a diary's posthumous publication), never on the desk's
+sense of a good sequence. Where the record gives a day, the
+timeline claims a day; where it gives only a duration, the
+timeline places the story by its publication and says so in
+the hours note above.
+
 ## The hours the record cannot give
 
 The feeds timestamp publication, not events, and this edition's

@@ -177,3 +177,11 @@ shrinks headline type until the text fits its box, the layout
 audit measures the result before drawing, and the validator
 rejects a selection whose stories lack the fields the layout
 needs. A headline can become small; it cannot overflow.
+
+Who checks the documents against the data? A second verifier,
+verify.py, written for this edition's documentation set. It
+reads the dossiers, briefings and companion and fails the build
+if a carrier, region, panel label, number or article link in
+the prose disagrees with sources.json. The generator checks
+that the page is buildable; the verifier checks that the
+repository is truthful.

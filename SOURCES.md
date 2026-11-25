@@ -409,6 +409,15 @@ Each story reached the page by a different route:
    sources.json, with the image re-verified byte-identical
    after each addition.
 
+## Headline fidelity
+
+Every headline on the page is a carrying outlet's headline as
+published, shortened only where the fit demanded it, and the
+one shortening the desk refused (the Huawei split) is recorded
+in that story's dossier. No number in a headline or in the
+strip was rounded: the day offered 68, 6 and 3, and the page
+prints 68, 6 and 3.
+
 ## What we did not print
 
 The fact left off the page for each story, and the reason. A
