@@ -75,6 +75,18 @@ this file; a reader who wants the day reads the page. Both
 readers are reading the same record, which is the point of
 keeping the two orders in two documents.
 
+## The future item
+
+One story in the chronology had not happened when the edition
+closed: the Iowa detonation, scheduled for the Wednesday
+morning after the edition's Tuesday. A timeline usually runs
+from past to present; this one ends in the future, and the
+record keeps it there rather than quietly dropping the story
+to the page's tense. The page handles the same problem with
+grammar (the headline's future tense) and the timeline handles
+it with position: last, where a scheduled event belongs, with
+its hour stated and its outcome honestly absent.
+
 ## The hours the record cannot give
 
 The feeds timestamp publication, not events, and this edition's

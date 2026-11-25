@@ -185,6 +185,8 @@ def check_watch_next(data):
         dossiers += read(rel)
     check("watch items echo the dossiers",
           dossiers.count("## Watch next") == 7)
+    check("every dossier closes in one sentence",
+          dossiers.count("## The story in one sentence") == 7)
 
 
 def check_cross_references(data):

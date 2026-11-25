@@ -153,3 +153,13 @@ pixel changed, and the checks that guard the page (render.py's
 audit, verify.py's cross-checks) were re-run after every
 addition. A reader comparing the first submission's tree with
 this one should find the same edition, better evidenced.
+
+The growth also has a discipline of its own: every added
+document was written from the research record that already
+existed in the repository (SOURCES.md and sources.json), never
+from new reporting, so the expansion cannot smuggle a new fact
+into an edition whose day has closed. Where an added document
+states something the record does not hold, that is an error in
+the document, and verify.py exists to catch the catchable kind:
+names, numbers, carriers, labels and links that disagree with
+the data.

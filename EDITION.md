@@ -99,3 +99,15 @@ whether it survived being seen by someone who would never read
 a word of this file. The documents exist for the second kind of
 reader, the one who asks why. A good edition owes both readers
 an answer, in the medium each of them actually receives.
+
+## What a second day would change
+
+Nothing in the format and everything in the content. The
+features would be re-earned by that day's feeds under the same
+rules; the strip would take that day's figures; the panels
+would appear only if that day's wires again sent stories
+without photographs. What carries over is the discipline: two
+outlets or it does not run, splits printed whole, claims
+keeping their status words, absences labelled rather than
+filled. A reader holding two editions side by side should see
+the same paper thinking about two different days.

@@ -117,3 +117,11 @@ real cases rather than floating above them:
 - **Rule 20** is the Iowa duplication, disclosed in the README,
   the companion, the dossier and here.
 
+A closing note on the examples: they are drawn from this
+edition because a style guide's examples should be checkable
+against the paper they describe. A future edition applying the
+same rules to a different day will produce different examples,
+and its PRESS.md should carry its own, replacing these rather
+than inheriting them. Rules travel; examples stay with their
+day.
+
