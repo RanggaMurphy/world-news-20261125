@@ -94,3 +94,10 @@ the reader's path.
 
 The wires decided the report was not enough for the people in
 the plume's path, and said so by writing a second piece.
+
+## The two Iowa stories, together
+
+This explainer and the report in stories/04-iowa-detonation.md
+are one event in two pieces. The report is the event; this
+piece is the evidence that the event's first telling left its
+most important readers with unanswered questions.

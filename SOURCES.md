@@ -403,6 +403,11 @@ Each story reached the page by a different route:
    from the documents.
 7. The image was committed unchanged from its first verified
    render.
+8. The documentation was then expanded in the open (dossiers,
+   briefings, companion, second verifier), every addition
+   written from the record of steps 1 to 4 and checked against
+   sources.json, with the image re-verified byte-identical
+   after each addition.
 
 ## What we did not print
 

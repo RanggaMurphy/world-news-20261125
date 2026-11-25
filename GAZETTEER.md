@@ -93,3 +93,10 @@ touristic. Precision beyond the record would read as knowledge
 the edition does not have, and a gazetteer that invents
 precision teaches its readers to distrust the precisions that
 are real.
+
+- **The Vatican** closes the list because it is the edition's
+  only place that is also an institution with a voice: it can
+  comment on the diary extracts, and its silence or speech is
+  the story's watch item. Places that can answer back get a
+  different kind of entry, one that ends in a question rather
+  than a description.

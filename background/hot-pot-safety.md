@@ -62,3 +62,15 @@ every bureau can reach within the hour. That reach explains the
 confirmation's strength (two wires, from the scene) and its
 thinness (nothing beyond the scene yet) in the same breath, and
 the dossier records both halves of that explanation.
+
+## Eating out, and why the setting is ordinary
+
+Hot pot eateries are neighbourhood institutions across Vietnam:
+communal, inexpensive, built around the table-top burner this
+briefing describes. The ordinariness matters to the record
+because it is what the toll interrupts. Six people were not at
+a hazardous site by any ordinary understanding; they were at
+dinner. Accident reporting that loses the ordinariness of the
+setting loses the reason the story is news, and the desk's
+context paragraph keeps the burners and the broth in view for
+exactly that reason.

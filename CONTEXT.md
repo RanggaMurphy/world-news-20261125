@@ -25,3 +25,7 @@ the day's events.
   only facts the dossier already holds, and it says which
   dossier holds them.
 - If a briefing and a dossier disagree, the dossier wins.
+- A briefing may say what would change the story; it may not
+  say what did change it after the edition closed. Updates
+  belong to the next edition, and this repository's briefings
+  were all written inside this edition's day.

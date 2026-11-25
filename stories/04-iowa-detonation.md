@@ -94,3 +94,12 @@ difficulty was reaching a holiday population.
 Sixty-eight barrels of an explosive too unstable to move will
 be destroyed where they sit, on the one morning of the year
 when everyone nearby is home.
+
+## The two Iowa stories, together
+
+This report and the explainer in stories/06-iowa-explainer.md
+are one event in two pieces. Read this dossier for what was
+planned and that one for why the plan needed explaining; the
+record keeps them separate because the wires published them
+separately, and the page prints them apart for the same
+reason.
