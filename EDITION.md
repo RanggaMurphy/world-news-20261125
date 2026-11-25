@@ -111,3 +111,10 @@ outlets or it does not run, splits printed whole, claims
 keeping their status words, absences labelled rather than
 filled. A reader holding two editions side by side should see
 the same paper thinking about two different days.
+
+## Colophon
+
+Set in the build machine's DejaVu serif and sans, navy and
+gold on white, one image of 1024 by 1024 pixels. Researched,
+written, drawn and verified in a single session, from the
+feeds of seven outlets, on the day the page is dated.
