@@ -15,6 +15,13 @@ the day's events.
 | Hot pot safety | Grid 2 | background/hot-pot-safety.md |
 | Papal diaries | Grid 4 | background/papal-diaries.md |
 
+## Currency
+
+Each briefing was drafted inside the edition's own news cycle,
+before the following morning's developments could colour the
+explanations. Later events may date them; nothing in them was
+revised afterwards to look wiser than the day allowed.
+
 ## The boundary between dossier and briefing
 
 - A dossier statement can be checked against the day's
