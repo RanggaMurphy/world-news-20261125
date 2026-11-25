@@ -81,3 +81,15 @@ code keeps the entry honest about what it is summarising.
   second institutional place: a site whose stockpile a whole
   community lives beside, and the reason a disposal plan is
   front-page news there and a wire brief everywhere else.
+
+## Datelines
+
+The gazetteer's discipline, stated once at the end: places are
+named no more precisely than the two-outlet record allows.
+Gaza is a territory because the wires located the strike no
+finer; Hanoi is a city because the wires named it; New York is
+a courtroom because the verdict's venue is jurisdictional, not
+touristic. Precision beyond the record would read as knowledge
+the edition does not have, and a gazetteer that invents
+precision teaches its readers to distrust the precisions that
+are real.

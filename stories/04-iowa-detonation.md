@@ -88,3 +88,9 @@ difficulty was reaching a holiday population.
 - https://www.theguardian.com/us-news/2026/nov/24/
   us-army-iowa-detonation (The Guardian)
 - The AP report, carried through the Google News wire.
+
+## The story in one sentence
+
+Sixty-eight barrels of an explosive too unstable to move will
+be destroyed where they sit, on the one morning of the year
+when everyone nearby is home.

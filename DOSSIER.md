@@ -47,3 +47,12 @@ where the carriers' agreement is about tone rather than fact.
 A reviewer who reads only one part of a dossier should read
 that section; it is where the edition's confidence, story by
 story, is stated most precisely.
+
+## Reading order
+
+For a reviewer with ten minutes: this index, then the dossier
+of the story being questioned. For a reviewer with an hour: the
+dossiers in page order, then SOURCES.md, then the verifier's
+output. Each dossier also closes with the story in one
+sentence; a reviewer with one minute can read the seven
+sentences and hold the whole edition.

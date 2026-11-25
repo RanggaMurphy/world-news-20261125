@@ -83,3 +83,9 @@ one theatre and the place is part of the fact.
 - https://www.bbc.co.uk/news/articles/
   c6rrg7ggq190o (BBC News)
 - The Reuters report, carried through the Google News wire.
+
+## The story in one sentence
+
+A strike killed Gaza's internal security chief two months into
+his tenure, and the tenure is the measure of the pressure the
+campaign is under.

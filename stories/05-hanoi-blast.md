@@ -86,3 +86,9 @@ for the injured, whose number was still moving.
 
 - The AP and Reuters reports, both carried through the
   Google News wire.
+
+## The story in one sentence
+
+Six people died at a dinner table in Hanoi, and everything
+beyond that sentence, cause included, is still being found
+out.

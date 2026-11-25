@@ -129,6 +129,14 @@ front pages can only separate them on selection and clarity.
 
 ## Edition history
 
+Provenance, briefly: this repository is rooted at the day's
+beacon commit, its page was rendered once and verified
+byte-identical at every later step, and its documentation grew
+in the open, in commits, from the same research record. Nothing
+in the tree arrived from another edition's repository; the
+house style is the only inheritance, and it is carried as a
+document (PRESS.md), not as code or files.
+
 The World Today is a daily. Each edition is its own repository,
 rooted at the make.fun beacon commit for that day's competition,
 so no edition inherits files, code or transcripts from another.

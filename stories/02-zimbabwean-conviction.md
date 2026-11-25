@@ -87,3 +87,9 @@ for an attempt must not report a completed act.
 - https://www.aljazeera.com/news/2026/11/24/
   south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia
   (Al Jazeera)
+
+## The story in one sentence
+
+A South African court convicted one recruit, and in doing so
+put the first court-verified strand through a recruitment
+pattern that until now rested on allegation and estimates.

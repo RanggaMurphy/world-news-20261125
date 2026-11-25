@@ -89,3 +89,8 @@ the reader's path.
 
 - The AP and Reuters explainers, carried through the
   Google News wire.
+
+## The story in one sentence
+
+The wires decided the report was not enough for the people in
+the plume's path, and said so by writing a second piece.

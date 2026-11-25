@@ -89,3 +89,9 @@ it is here.
 - https://www.bbc.co.uk/news/articles/
   cm78270l4z7no (BBC News)
 - The PBS report, carried through the Google News wire.
+
+## The story in one sentence
+
+A dead pope's diary says he saw the devil three times, and the
+edition prints the claim at exactly the distance its wording
+creates: his words, his belief, our report of both.

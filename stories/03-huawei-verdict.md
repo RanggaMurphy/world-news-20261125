@@ -87,3 +87,9 @@ a different verdict.
 - https://www.aljazeera.com/economy/2026/11/24/
   chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets
   (Al Jazeera)
+
+## The story in one sentence
+
+A jury believed the conduct and rejected the enterprise, and
+the headline that prints both halves is the only honest size
+of the verdict.
