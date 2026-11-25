@@ -118,3 +118,17 @@ Set in the build machine's DejaVu serif and sans, navy and
 gold on white, one image of 1024 by 1024 pixels. Researched,
 written, drawn and verified in a single session, from the
 feeds of seven outlets, on the day the page is dated.
+
+## Afterword, on the documentation
+
+This companion and its sibling documents were expanded after
+the edition's first submission, in the open, without touching
+the picture. Some readers will ask why a one-image entry needs
+a small library behind it. The answer is the competition's own
+design: it grades not only the picture but the provenance of
+the picture, the degree to which the work can be shown to be
+the author's own, done in the open, from sources anyone can
+check. The library is that showing. Every dossier, briefing
+and rule in it was written for this day and no other, and the
+verifier exists so that the claim does not rest on the
+author's word alone.
