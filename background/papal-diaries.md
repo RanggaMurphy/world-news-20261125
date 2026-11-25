@@ -1,0 +1,43 @@
+# A pope's diary as a news story
+
+Background for grid story 4 (the Francis diary extracts). The
+dossier is stories/07-pope-diary.md.
+
+## Why diaries publish after death
+
+A pope's private diary is written without an audience, which is
+exactly its news value when extracts appear after his death:
+it is the record of what a man in that office thought he had
+experienced, in his own hand, unshaped by the institution that
+usually speaks for him. The extracts' claim, that Francis
+believed he had seen the devil three times, one of them in the
+choir loft during Mass, is therefore reported as a claim about
+belief, and the page's wording ("claims", "diary says") never
+lets it become anything else.
+
+## The church's own caution
+
+Catholic teaching treats claimed visions seriously and
+sceptically at once: private revelation is permitted to be
+believed and never required to be, and the institution
+investigates claims slowly when it investigates them at all. A
+pope recording such experiences privately, without proclaiming
+them, sits inside that tradition rather than outside it, which
+is part of why two outlets as different as BBC News and PBS
+carried the story as news and not as sensation.
+
+## Why the story earns its place
+
+The grid needs the day's range, not just its weight. This was
+the intake's only story about interior life, and it was carried
+by two outlets with the diary as a checkable source. It also
+gives the strip its third figure, and the figure's label
+repeats its status, so the day's strangest number travels with
+its evidence class attached.
+
+## What would change the story
+
+A Vatican comment on the extracts, further diary publication,
+or a theologian of standing characterising the entries: any of
+these would move the story from publication news into church
+news, and a future edition would treat it accordingly.

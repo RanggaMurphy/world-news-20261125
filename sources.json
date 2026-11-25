@@ -176,5 +176,22 @@
     "Reuters",
     "The Guardian"
   ],
-  "sources_line": "Sources: BBC - BBC News - Reuters - Al Jazeera - AP News - The Guardian - PBS"
+  "sources_line": "Sources: BBC - BBC News - Reuters - Al Jazeera - AP News - The Guardian - PBS",
+  "desk_notes": {
+    "gaza_strike": "Led from the first pass: a named office-holder killed, a reported toll attached, and three carriers including an independent wire. The desk debate was whether the name belongs in the headline; it does not, because the office is the news beyond Gaza and the name is in the facts.",
+    "zimbabwean_conviction": "Held at feature 2 as the day's only court outcome with three-region reach. The desk note is the naming rule: a recruit in a pipeline is described by nationality and role, while the pipeline itself is the story being told.",
+    "huawei_verdict": "The split verdict is the edition's test of headline honesty. Both halves print or the story does not feature; the conviction leads the wording because it is the half with consequences still to come, starting with sentencing.",
+    "iowa_detonation": "The grid's lead and the strip's anchor number. Its panel partner, the explainer, sits two rows down in print order but directly under it in reading order, which the layout preserves by keeping both Iowa stories in the left column's line of sight.",
+    "hanoi_blast": "The day's worst toll, carried by two wires and no photograph. The panel decision was automatic under the house rule, and the desk note is only about the cause: the edition explains the setting and names no cause, because the wires named none.",
+    "iowa_explainer": "Exists as a separate story because two wires carried it as one. The explainer is the day's clearest example of the duplication rule: the news itself decided the report was not enough, and the page records that decision by printing both headlines.",
+    "pope_diary": "Placed last in the grid deliberately, as the day's only story about belief. Its figure completes the strip, and the desk note is the status discipline: claims and diary says, in the headline, the label and this record, every time."
+  },
+  "watch_next": [
+    "Gaza: the succession to Abu Nahel and the tenure it lasts.",
+    "South Africa: further recruitment prosecutions on the same route.",
+    "New York: sentencing on the Huawei trade-secrets conviction.",
+    "Iowa: the Wednesday detonation and the post-blast plume account.",
+    "Hanoi: the injured count resolving and a first statement on cause.",
+    "Vatican: any comment on the diary extracts."
+  ]
 }

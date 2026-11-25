@@ -55,6 +55,17 @@ is in sources.json.
   confirming outlets, source URLs, reported numbers, statistics
   and thumbnail assignments.
 - `SOURCES.md` — the human-readable research record for the day.
+- `DOSSIER.md` — index of the per-story dossiers in `stories/`.
+- `stories/` — one dossier per story: facts, selection, omissions,
+  watch-next notes and article links.
+- `CONTEXT.md` — index of the background briefings in
+  `background/`.
+- `background/` — standing context for each story's subject.
+- `PRESS.md` — the house style: the standing rules every edition
+  follows.
+- `EDITION.md` — the reader's companion to the page.
+- `verify.py` — the documents-first verifier: it cross-checks the
+  dossiers, briefings and companion against `sources.json`.
 - `thumbs/` — the story photographs used by the generator. Two
   wire stories published no photograph; their slots are drawn as
   navy label panels (VIETNAM and IOWA) by render.py instead.
