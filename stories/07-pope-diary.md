@@ -30,6 +30,17 @@ care.
 - The extracts were published after Francis' death.
 - Two outlets carried the story on the day.
 
+## The carriers, weighed
+
+BBC News and PBS are an unusual pair for this desk: a British
+newsroom and an American public broadcaster, arriving at the
+same register (straight report, claims kept as claims) from
+different traditions. Their agreement on tone is the
+confirmation that matters, because the story's risk was never
+factual but tonal: a diary's visions can be reported as
+sensation or as document, and two carriers choosing document
+is what let the page do the same.
+
 ## Why it closes the grid
 
 Every edition tries to end its grid on the story a reader will

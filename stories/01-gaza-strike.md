@@ -30,6 +30,16 @@ quickly under the pressure of Israel's continuing campaign.
   strikes, Abu Nahel among them.
 - Three outlets carried the story on the day.
 
+## The carriers, weighed
+
+Reuters is the load-bearing carrier: an independent wire with
+no stake in the BBC's framing, reporting the same killing, the
+same office and the same toll. The two BBC brands agree with
+Reuters and with each other, which adds reach but not a second
+independence. The desk therefore treats the story as confirmed
+by a wire and corroborated by a house, and the record describes
+it in exactly those terms rather than as three equal votes.
+
 ## Why it leads
 
 It is the day's most consequential development in Gaza, and the

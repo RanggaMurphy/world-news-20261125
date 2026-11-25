@@ -35,3 +35,15 @@ explainer), printed separately for the reasons the README and
 stories/06-iowa-explainer.md record. Two stories have no
 photograph (Hanoi and the Iowa explainer) and run as labelled
 navy panels; the dossiers mark those labels as drawn.
+
+## How the dossiers were weighed
+
+Each dossier carries a section the edition added for this
+resubmission: "The carriers, weighed". Confirmation is not a
+count, and the dossiers say what each story's carriers actually
+contributed: which one is load-bearing, which corroborates,
+where a figure belongs to a party rather than to a carrier, and
+where the carriers' agreement is about tone rather than fact.
+A reviewer who reads only one part of a dossier should read
+that section; it is where the edition's confidence, story by
+story, is stated most precisely.

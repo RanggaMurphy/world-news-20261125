@@ -403,3 +403,31 @@ Each story reached the page by a different route:
    from the documents.
 7. The image was committed unchanged from its first verified
    render.
+
+## What we did not print
+
+The fact left off the page for each story, and the reason. A
+page without body text omits nearly everything; these are the
+omissions a reader would most plausibly ask about.
+
+- **Gaza strike:** the strike's location inside Gaza and the
+  weapon used. The wires named the office-holder and the toll;
+  the tactical detail was not in two-outlet copy.
+- **Zimbabwean conviction:** the sentence and the man's name in
+  the headline. The conviction is the outcome the page prints;
+  the name belongs to the linked reporting, under the naming
+  rule for people in pipelines.
+- **Huawei verdict:** the counts in detail and the sentencing
+  outlook. A headline page does not do sentencing speculation,
+  and the split is the story.
+- **Iowa detonation:** a plume distance. Officials gave two;
+  the page prints the conflict, in the facts, and no figure.
+- **Hanoi blast:** a cause. The wires reported a blast and a
+  toll; nothing in this repository names gas, equipment or any
+  other origin, because the record names none.
+- **Iowa explainer:** the explainer's answers. The page points
+  at the genre; reproducing its content would make the page a
+  second explainer with worse sourcing.
+- **Pope's diary:** the settings of the other two visions. The
+  record supports the choir loft in two-outlet copy; the page
+  prints the one it can source.

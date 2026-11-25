@@ -29,6 +29,16 @@ court outcomes yet in that widening story.
   fight for Russia.
 - Three outlets carried the conviction on the day.
 
+## The carriers, weighed
+
+Al Jazeera and the BBC brands divide the labour the way the
+record describes: the court outcome from the BBC, the regional
+frame from Al Jazeera, whose reporting on African recruitment
+has been the most continuous of the three. Ukraine's "hundreds"
+figure is carried by all of them and owned by none of them; it
+is Kyiv's number, and every document in this repository that
+uses it attaches Kyiv's name to it.
+
 ## Why it is a feature
 
 A verdict is a decision, and features are reserved for

@@ -55,6 +55,7 @@ STORY_FILES = [
 DOSSIER_SECTIONS = [
     "What happened",
     "The facts on record",
+    "The carriers, weighed",
     "What was not printed",
     "Watch next",
     "Articles",

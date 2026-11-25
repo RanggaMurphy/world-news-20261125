@@ -38,6 +38,17 @@ A named successor (continuity) or a long vacancy (disruption),
 and any Hamas statement characterising the strike's effect on
 its internal apparatus.
 
+## The succession question, stated plainly
+
+Internal security is the part of an administration that cannot
+pause: files, informants and suspicions need a holder every
+day, including the day after a strike. A fast appointment says
+the apparatus is intact; a slow one says the strike reached
+further than the man. The edition cannot know which it will be,
+so it prints the tenure that ended and names the succession as
+the watch item, which is the most a snapshot owes its readers
+on a story whose next fact is a name.
+
 ## Why this briefing avoids the word "decapitation"
 
 Coverage of strikes on security officials often reaches for

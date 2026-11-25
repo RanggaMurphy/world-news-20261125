@@ -32,6 +32,17 @@ moved.
 - Officials gave conflicting accounts of the plume's reach.
 - The blast was scheduled for 10am ET on Wednesday.
 
+## The carriers, weighed
+
+AP is the wire of record for the plan itself (barrels, tonnage,
+timing), and the Guardian's contribution is the human perimeter:
+the resident warning and the conflicting plume accounts, in
+fuller form than the wire carried. The page's facts combine the
+two without blending their authority: figures are AP's, the
+warning is the Guardian's, and the conflict is both of theirs,
+which is why it could be printed as a conflict rather than as
+one side's claim.
+
 ## Why it leads the grid
 
 It carries the day's most concrete number and the day's most

@@ -28,6 +28,16 @@ trade-secrets conviction stands while the heavier charge falls.
 - Huawei was acquitted of racketeering.
 - Two outlets carried the verdict on the day.
 
+## The carriers, weighed
+
+Two carriers, two owners, two newsrooms: the features' cleanest
+confirmation. Verdict copy is also the genre where wire and
+newsroom accounts most often diverge in emphasis, one leading
+with the conviction, the other with the acquittal. Here both
+carriers held both halves in the same order, which is why the
+page could print the split as a single headline without
+choosing an emphasis of its own.
+
 ## Why it is a feature
 
 It is a decision that closes a years-long case, and split

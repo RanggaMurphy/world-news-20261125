@@ -31,6 +31,17 @@ needed one clear account more than they needed a second report.
   cannot be moved.
 - Two wires carried it on the day.
 
+## The carriers, weighed
+
+That both wires produced an explainer is itself the
+confirmation that matters here: AP and Reuters independently
+judged the report insufficient for the residents it concerned.
+An explainer's existence is an editorial verdict by the wires
+on the state of public information, and the page prints it as
+such. The content of the two explainers overlaps heavily, as
+explainers do; the desk weighed the fact of them, not their
+differences.
+
 ## Why it is printed separately
 
 The README records the reasoning for the whole edition: the day

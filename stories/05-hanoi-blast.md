@@ -30,6 +30,17 @@ blast kills six people.
 - The blast was at a hot pot eatery in Hanoi.
 - Two wires carried it from the scene.
 
+## The carriers, weighed
+
+Two wires, no shared ownership, reporting from the scene in
+agreement on the toll: the strongest confirmation a breaking
+story gets in its first cycle, and the thinnest. Neither wire
+had a cause, a name for the eatery, or a settled injured count,
+and the page inherits those limits exactly. Wire agreement is
+why the story runs; wire thinness is why its dossier is the
+edition's shortest on facts and longest on what was not
+printed.
+
 ## Why it is in the grid
 
 It is the day's deadliest event by toll, and it is a wire
