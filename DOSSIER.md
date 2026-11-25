@@ -56,3 +56,9 @@ dossiers in page order, then SOURCES.md, then the verifier's
 output. Each dossier also closes with the story in one
 sentence; a reviewer with one minute can read the seven
 sentences and hold the whole edition.
+
+## Imprint
+
+Compiled on the edition's own day from the seven outlets named
+in the footer. Corrections, when they come, will be found in
+the following edition's record under this edition's date.
