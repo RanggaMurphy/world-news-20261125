@@ -217,6 +217,21 @@ to match the longest block was considered and rejected: it would
 make two headlines smaller for the sake of a symmetry no reader
 asked for.
 
+## Failure behaviour
+
+The layout is fitted, not fixed: headline type shrinks until
+the text fits its box, and the audit measures the fit before
+anything is drawn. The failure mode the design refuses is the
+silent overflow, a headline running under a rule or into the
+strip, because a picture judged at a glance cannot carry a
+correction. Where a headline cannot fit at the minimum size,
+the build fails loudly and the selection, not the geometry, is
+revisited: shorten the headline in the record, with the
+shortening disclosed in the dossier, or drop the story. The
+page you are reading is the one where nothing had to be
+dropped: the Huawei headline, the longest the edition carries,
+fit whole, and its fit is the design's proof of headroom.
+
 ## The panels as design
 
 Two of this edition's seven slots are not photographs but navy

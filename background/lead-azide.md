@@ -57,3 +57,14 @@ this briefing because a future reader, meeting the story
 without its week attached, would otherwise wonder why a routine
 disposal rated two wire pieces and a stay-indoors warning. The
 week is the answer.
+
+## Ammunition plants and their neighbours
+
+The Iowa plant is not an abstraction to the people in the
+warning's radius: it is the county's standing fact, an employer
+and a hazard in the same fence line. Disposal operations like
+this one are the moments when that bargain becomes visible to
+everyone else. The desk's sympathy in the record runs to
+accuracy rather than to any party: residents deserved one plume
+account, officials owed them one, and the page prints the gap
+between those two sentences as the conflict it was.

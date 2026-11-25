@@ -148,3 +148,15 @@ How the day's stories physically arrived:
 - The desk tracked a fixed set of seven outlets for this
   edition, named in the footer. A story carried only outside
   that set was invisible to the edition by design.
+
+## The pair problem, this edition's version
+
+Two of the seven stories count two BBC brands among their
+carriers (the Gaza strike: BBC, BBC News, Reuters; the
+conviction: Al Jazeera, BBC, BBC News). In both cases an
+independently owned carrier stands beside the brands, so no
+story on this page rests on one owner alone. The record states
+the composition plainly wherever confirmation is discussed,
+because "three outlets" that share one owner are not three
+confirmations, and a paper that counts them as such will
+eventually print a rumour as a fact.

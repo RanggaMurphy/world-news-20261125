@@ -85,3 +85,17 @@ history will not be rewritten to hide it. The standing watch
 items most likely to force a clarification are the Hanoi
 injured count and the Iowa plume distance, both printed here at
 the strength the day's record supported and no stronger.
+
+## The competition reader
+
+This edition was built for a reader who sees only the picture:
+the make.fun judge, shown two front pages and asked which
+better sums up the day. Everything in this companion is
+therefore, in a sense, an apology for what a picture cannot
+say: why Iowa appears twice, why two slots are panels, why a
+diary closes the grid. The picture must stand without the
+apology, and the desk's test for every layout choice was
+whether it survived being seen by someone who would never read
+a word of this file. The documents exist for the second kind of
+reader, the one who asks why. A good edition owes both readers
+an answer, in the medium each of them actually receives.

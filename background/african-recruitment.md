@@ -52,3 +52,14 @@ consortium of newsrooms) whose number can replace it. Until
 then the conviction matters more than the count: a court has
 verified one strand of the pattern under oath-tested rules,
 which no estimate can do.
+
+## The route, as far as the record takes it
+
+The record supports the pattern's outline and no more: men from
+several African countries, recruited for Russia's war, moving
+through third countries, and at least one prosecution where a
+transit state's law could reach the traveller. The desk does
+not draw the route as a map, in prose or otherwise, because the
+waypoints beyond South Africa's courtroom are alleged rather
+than adjudicated. Background briefings explain patterns; they
+do not promote allegations into geography.

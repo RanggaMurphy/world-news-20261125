@@ -173,6 +173,20 @@ def check_desk_notes(data):
     check("desk notes record the panels", "panel" in joined)
 
 
+def check_watch_next(data):
+    watch = data.get("watch_next", [])
+    check("watch list present", len(watch) >= 5, "%d items" % len(watch))
+    joined = " ".join(watch)
+    for place in ["Gaza", "South Africa", "New York", "Iowa",
+                  "Hanoi", "Vatican"]:
+        check("watch covers " + place, place in joined)
+    dossiers = ""
+    for rel in STORY_FILES:
+        dossiers += read(rel)
+    check("watch items echo the dossiers",
+          dossiers.count("## Watch next") == 7)
+
+
 def check_cross_references(data):
     readme = read("README.md")
     for name in ["SOURCES.md", "DOSSIER.md", "CONTEXT.md", "PRESS.md",
@@ -218,6 +232,7 @@ def main():
     check_thumbs(data)
     check_press_rules(data)
     check_desk_notes(data)
+    check_watch_next(data)
     check_cross_references(data)
     if FAILURES:
         print("FAILED:", len(FAILURES), "checks:", ", ".join(FAILURES))

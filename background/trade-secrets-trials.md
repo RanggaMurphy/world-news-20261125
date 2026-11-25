@@ -49,3 +49,14 @@ the word a reader cannot misunderstand. The page follows the
 wires, and the dossier records the formal charge (conspiracy to
 steal trade secrets) so the record holds both registers: the
 headline for the reader, the charge for the file.
+
+## What a trade secret is, for this case
+
+A trade secret is information a company keeps confidential
+because its secrecy is worth money: designs, processes, source
+material, supplier terms. Unlike a patent, it is protected by
+its secrecy rather than by registration, which is why taking it
+is a crime of conduct (access, copying, conspiracy) rather than
+of paperwork. That distinction explains the trial's shape: the
+prosecution had to prove what was taken and that it was secret,
+not merely that Huawei competed hard.

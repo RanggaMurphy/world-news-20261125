@@ -52,3 +52,13 @@ the grammar can read any wire toll in the paper and know which
 number is settled and which is still moving. The strip takes
 the settled one, as it always does, and the dossier's watch
 note waits for the other to settle.
+
+## Hanoi, briefly
+
+The blast happened in a capital city at a meal, which is why
+the story travelled: capitals concentrate wire bureaus, and a
+lunchtime or evening blast in an eatery is the kind of event
+every bureau can reach within the hour. That reach explains the
+confirmation's strength (two wires, from the scene) and its
+thinness (nothing beyond the scene yet) in the same breath, and
+the dossier records both halves of that explanation.

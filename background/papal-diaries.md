@@ -53,3 +53,15 @@ the liturgy, in the building's most musical and least private
 corner. A reader does not have to share the belief to
 understand why a diarist would record it, and why an editor
 would print it.
+
+## Publication as the event
+
+Strictly, the day's event is not the visions, which are dated
+only by the diary itself, but their publication: extracts,
+chosen by someone, printed now. The page is careful to make
+the publication the story (the headline's subject is the
+diary, its verb "reveals") because that is the part two outlets
+can confirm. The visions belong to Francis; the publication
+belongs to the record, and the edition prints the second while
+reporting the first at exactly the distance the wording
+creates.

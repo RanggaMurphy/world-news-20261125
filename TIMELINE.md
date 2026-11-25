@@ -60,6 +60,21 @@ why the front page is organised by consequence instead of by
 the clock. The chronology is kept here, in the record, and the
 page is kept for the ranking.
 
+## Reading the order
+
+Chronology runs: the diary's publication, the verdict at the
+end of its months-long trial, the conviction, the strike
+reported from Tuesday, the blast, and the detonation still to
+come. The page runs almost none of that order. It leads with
+the strike because consequence outranks sequence, places the
+two court outcomes beside it because decisions belong
+together, and puts the future event (Iowa) at the head of the
+grid because it is the only story whose main fact had not
+happened yet. A reader who wants the clock can rebuild it from
+this file; a reader who wants the day reads the page. Both
+readers are reading the same record, which is the point of
+keeping the two orders in two documents.
+
 ## The hours the record cannot give
 
 The feeds timestamp publication, not events, and this edition's
